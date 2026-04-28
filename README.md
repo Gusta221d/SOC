@@ -15,7 +15,5 @@ Instead of simply listing tools on a resume, I use this space to document my lea
 
 ## Get in Touch
 
-If you want to chat about cybersecurity, feel free to reach out:
-
 * **LinkedIn:** https://www.linkedin.com/in/gustav-barreira-500637304/
 * **Email:** gustafbarreira@gmail.com
