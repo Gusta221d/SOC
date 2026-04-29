@@ -10,6 +10,8 @@ Instead of simply listing tools on a resume, I use this space to document my lea
 
 * **[SOC Lab Report: Web Server Compromise & Exfiltration]**
   * **Summary:** Investigated a web server breach using Splunk. Tracked the attacker's SQLi and Path Traversal attempts, and calculated the exact amount of stolen data by analyzing firewall logs.
+* **[SOC Lab Report: Incident Investigation-WIN]**
+  * **Summary:** Investigated a Windows host compromise using Splunk. Successfully identified a malicious C2 connection on port 5678, traced the execution vector back to a suspicious binary in the \Temp folder, and uncovered an automated persistence mechanism via a disguised scheduled task.
 
 *(More projects will be added as I keep learning!)*
 
